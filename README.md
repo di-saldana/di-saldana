@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @di-saldana
-- 🌱 I’m currently learning Kotlin and Swift for Application Development
+- 👩🏻‍💻 I'm a Software Engineer & App Developer
 - 📫 How to reach me: dsl42@alu.ua.es
 
 <!---
